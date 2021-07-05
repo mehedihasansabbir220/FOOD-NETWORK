@@ -85,9 +85,6 @@ button a {
     background: url(images/shapes/Frame\ 59.jpg) no-repeat center center/cover;
 
 }
-.About{
-    text-decoration: underline;
-}
 #recipies{
     display: flex;
     flex-direction: column;
